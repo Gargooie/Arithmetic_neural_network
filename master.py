@@ -35,5 +35,5 @@ print(outputs)
 new_inputs = np.array([1,1,0])
 output = sigmoid(np.dot(new_inputs, synaptic_weights))
 
-print("new issue:")
+print("New issue:")
 print(output)
